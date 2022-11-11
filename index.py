@@ -72,5 +72,5 @@ def index():
     homepage += "<br><a href=/search>選修課程查詢</a><br>"
     return homepage
 
-if __name__ == "__main__":
-    app.run()
+# if __name__ == "__main__":
+#     app.run()
